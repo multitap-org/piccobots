@@ -1,0 +1,4 @@
+[submodule "deps/libretro-common"]
+	path = deps/libretro-common
+	url = https://github.com/libretro/libretro-common.git
+	shallow = true
